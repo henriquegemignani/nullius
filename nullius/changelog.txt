@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.6
+Date: ??.??.????
+  Changes:
+    - Added elevated rail collisions to pylons and distilleries
+  Graphics:
+    - Improved alt-mode appearance of module icons in labs and 2x2 buildings
+  Modding:
+    - Fixed a broken recipe with Renai Transportation mod
+---------------------------------------------------------------------------------------------------
 Version: 2.0.5
 Date: 25.04.2026
   Changes:
