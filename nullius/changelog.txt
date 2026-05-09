@@ -3,6 +3,7 @@ Version: 2.0.6
 Date: ??.??.????
   Changes:
     - Added elevated rail collisions to pylons and distilleries
+    - Added pipeline extent to the description of pipes and tanks
   Graphics:
     - Improved alt-mode appearance of module icons in labs and 2x2 buildings
   Modding:
