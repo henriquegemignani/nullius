@@ -232,6 +232,7 @@ data:extend{
     dying_explosion = "medium-explosion",
     corpse = "oil-refinery-remnants",
     collision_box = {{-2.3, -2.3}, {2.3, 2.3}},
+    collision_mask = {layers={item=true, object=true, player=true, water_tile=true, elevated_rail=true, is_object=true, is_lower_object=true}},
     selection_box = {{-2.5, -2.5}, {2.5, 2.5}},
     
     crafting_categories = {"distillation"},
@@ -298,6 +299,7 @@ data:extend{
     dying_explosion = "medium-explosion",
     corpse = "oil-refinery-remnants",
     collision_box = {{-2.3, -2.3}, {2.3, 2.3}},
+    collision_mask = {layers={item=true, object=true, player=true, water_tile=true, elevated_rail=true, is_object=true, is_lower_object=true}},
     selection_box = {{-2.5, -2.5}, {2.5, 2.5}},
     
     crafting_categories = {"distillation"},
