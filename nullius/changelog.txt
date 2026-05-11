@@ -8,6 +8,7 @@ Date: ??.??.????
     - Improved alt-mode appearance of module icons in labs and 2x2 buildings
   Modding:
     - Fixed a broken recipe with Renai Transportation mod
+    - Increased engine power of cargo drones to prevent them stalling
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.5
 Date: 25.04.2026
