@@ -5,6 +5,7 @@ Date: ??.??.2026
     - Added elevated rail collisions to pylons and distilleries
     - Added pipeline extent to the description of pipes and tanks
     - Grass drones remove sand
+    - Updated Russian translation
   Graphics:
     - Improved alt-mode appearance of module icons in labs and 2x2 buildings
   Bugfixes:
