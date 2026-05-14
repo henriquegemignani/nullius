@@ -1,12 +1,14 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.0.6
-Date: ??.??.????
+Date: ??.??.2026
   Changes:
     - Added elevated rail collisions to pylons and distilleries
     - Added pipeline extent to the description of pipes and tanks
     - Grass drones remove sand
   Graphics:
     - Improved alt-mode appearance of module icons in labs and 2x2 buildings
+  Bugfixes:
+    - Fixed pumping speed of tier 3 valves
   Modding:
     - Fixed a broken recipe with Renai Transportation mod
     - Increased engine power of cargo drones to prevent them stalling
