@@ -3605,7 +3605,7 @@ data:extend({
     },
     fluid_box =
     {
-      volume = 500,
+      volume = 1000,
       pipe_covers = pipecoverspictures(),
       pipe_connections =
       {
@@ -3618,7 +3618,7 @@ data:extend({
       type = "electric",
       usage_priority = "primary-input"
     },
-    pumping_speed = 100,
+    pumping_speed = 200,
     impact_category = data.raw.pump["pump"].impact_category,
     open_sound = data.raw.pump["pump"].open_sound,
     close_sound = data.raw.pump["pump"].close_sound,
