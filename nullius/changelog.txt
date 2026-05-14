@@ -6,6 +6,7 @@ Date: ??.??.2026
     - Added pipeline extent to the description of pipes and tanks
     - Grass drones remove sand
     - Updated Russian translation
+    - Defaults to hiding the voiding recipe icons in alt mode
   Graphics:
     - Improved alt-mode appearance of module icons in labs and 2x2 buildings
   Bugfixes:
